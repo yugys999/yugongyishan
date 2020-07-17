@@ -20,7 +20,7 @@ jsproxy_config({
     'defalut1': {
       label: '第2通道',
       lines: {
-        '222.222.workers.dev': 1,
+        'lively-mountain-075f.yugongys96.workers.dev': 1,
       }
     },
     
